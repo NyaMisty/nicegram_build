@@ -7,6 +7,8 @@
 
 ## How to use
 
+1. Import the certs under `provision/certs` (or you will get: `ERROR: Unable to find an identity on the system matching the ones in external/build_configuration/provisioning/Intents.mobileprovision`)
+2. Build
 ```
 python3 build-system/Make/Make.py --cacheDir ~/telegram-bazel-cache build --configurationPath ~/Desktop/nicegram_build/telegram-configuration.json --configuration release_arm64 --buildNumber=0 --codesigningInformationPath ~/Desktop/nicegram_build/provision
 ```
