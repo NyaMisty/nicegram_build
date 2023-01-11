@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppIDName</key>
+	<string>Telegraph NotificationService</string>
+	<key>ApplicationIdentifierPrefix</key>
+	<array>
+		<string>T8B4U4YCDJ</string>
+	</array>
+	<key>CreationDate</key>
+	<date>2023-01-10T19:51:28Z</date>
+	<key>DeveloperCertificates</key>
+	<array>
+		<data>
+		MIIDeDCCAmCgAwIBAgIBATANBgkqhkiG9w0BAQsFADBSMS4wLAYDVQQDDCVp
+		UGhvbmUgRGV2ZWxvcGVyOiBOaWNlZ3JhbSBTZWxmU2lnbmVkMRMwEQYDVQQL
+		DApUOEI0VTRZQ0RKMQswCQYDVQQGEwJDTjAeFw0yMzAxMTAxOTUxMjhaFw0z
+		MzAxMDkxOTUxMjhaMFIxLjAsBgNVBAMMJWlQaG9uZSBEZXZlbG9wZXI6IE5p
+		Y2VncmFtIFNlbGZTaWduZWQxEzARBgNVBAsMClQ4QjRVNFlDREoxCzAJBgNV
+		BAYTAkNOMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1VcBLgc7
+		InbSOKNCWuCdeeLzt0NvqQsWz8h02hoVz5d95NCCgbWRE3Kv6/Bjzj2/Ce4z
+		jvdLfxgpkyJDJWl3I3b5ajIwrOK5pN5XepjJ787jllZPTP9CDE6HxGAnFPcu
+		Vs0G9jtXnYJJV+dMeIc4nAEW9gDFg50M0X86pMB7xR03RralkeiRGLiUubM8
+		ytVD2Q1EsEvpOurWIv+7kyPCQsOh/YS1HWjSUoVp4SYn0ObukYaFKLovMjRO
+		OeoeRGFH5XUHdm6DL/ArXfOiM9o4lopcpAEi2s3t9Nn40uDZWOeT0lURbNw1
+		EDRNgYaVN2PwC6ZwXiZgKjYbqLGalasl/wIDAQABo1kwVzAOBgNVHQ8BAf8E
+		BAMCB4AwJgYDVR0lAQH/BBwwGgYIKwYBBQUHAwQGCCsGAQUFBwMDBgRVHSUA
+		MB0GA1UdDgQWBBTXbd4RECL/LeqPoDNpt452psIB+DANBgkqhkiG9w0BAQsF
+		AAOCAQEASq3Cx7AiYtopeQYiwMC0Opy/ew0EDDmQG9jRFeay/labGj5067xm
+		qrATctbko6VTW1bWL0ecatiLrF8hd71H2fDxKH8SeZT0LSK8QK/Ka0s0GR7O
+		gvFpG2FxkWNx6UvGRAfvYULGlUES1QX8p4vSke1z2quQyLJF6ur1tLYYb1KE
+		9djy4VEbHPpwlTZ5QhpqpPWFHpHB6hDqvlaHq/C4OUk30HNwTje3cYcznY9G
+		ihCMB7lNOcPG2HDSMCsVqLVp2VX8i3OCRtGOj4XYRzVFOK5GOylucnyLXADR
+		uiKBaJs90ZYdV3BXYrNBq2GERjvu/RL93WX2TaRtlufZAWZ5TA==
+		</data>
+	</array>
+	<key>Entitlements</key>
+	<dict>
+		<key>application-identifier</key>
+		<string>T8B4U4YCDJ.app.nicegram.NotificationService</string>
+		<key>beta-reports-active</key>
+		<true/>
+		<key>com.apple.developer.carplay-messaging</key>
+		<true/>
+		<key>com.apple.developer.pushkit.unrestricted-voip</key>
+		<true/>
+		<key>com.apple.developer.team-identifier</key>
+		<string>T8B4U4YCDJ</string>
+		<key>com.apple.developer.usernotifications.filtering</key>
+		<true/>
+		<key>com.apple.security.application-groups</key>
+		<array>
+			<string>group.app.nicegram</string>
+		</array>
+		<key>get-task-allow</key>
+		<false/>
+		<key>keychain-access-groups</key>
+		<array>
+			<string>T8B4U4YCDJ.*</string>
+			<string>com.apple.token</string>
+		</array>
+	</dict>
+	<key>ExpirationDate</key>
+	<date>2033-01-09T19:51:28Z</date>
+	<key>IsXcodeManaged</key>
+	<false/>
+	<key>Name</key>
+	<string>match AppStore app.nicegram.NotificationService</string>
+	<key>Platform</key>
+	<array>
+		<string>iOS</string>
+	</array>
+	<key>TeamIdentifier</key>
+	<array>
+		<string>T8B4U4YCDJ</string>
+	</array>
+	<key>TeamName</key>
+	<string>Telegram FZ-LLC</string>
+	<key>TimeToLive</key>
+	<integer>3652</integer>
+	<key>UUID</key>
+	<string>1c3e4a68-ec92-42e1-991b-c862ebabe698</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>

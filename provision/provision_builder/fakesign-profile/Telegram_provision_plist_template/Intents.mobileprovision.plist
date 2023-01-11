@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppIDName</key>
+	<string>Telegraph Siri Intents</string>
+	<key>ApplicationIdentifierPrefix</key>
+	<array>
+		<string>C67CF9S4VU</string>
+	</array>
+	<key>CreationDate</key>
+	<date>2022-11-01T17:25:41Z</date>
+	<key>DeveloperCertificates</key>
+	<array>
+		<data>
+		MIIDbzCCAlegAwIBAgIBATANBgkqhkiG9w0BAQsFADBdMTkwNwYDVQQDDDBB
+		cHBsZSBEaXN0cmlidXRpb246IFRlbGVncmFtIEZaLUxMQyAoQzY3Q0Y5UzRW
+		VSkxEzARBgNVBAsMClNFTEZTSUdORUQxCzAJBgNVBAYTAlVTMB4XDTIwMTAy
+		OTE3MzMxOVoXDTMwMTAyOTE3MzMxOVowXTE5MDcGA1UEAwwwQXBwbGUgRGlz
+		dHJpYnV0aW9uOiBUZWxlZ3JhbSBGWi1MTEMgKEM2N0NGOVM0VlUpMRMwEQYD
+		VQQLDApTRUxGU0lHTkVEMQswCQYDVQQGEwJVUzCCASIwDQYJKoZIhvcNAQEB
+		BQADggEPADCCAQoCggEBANwsHy6VeLF+zGnw79nYksixSTezlpLlE2JaK1yu
+		wjOsbJPg2BlO+IYvH3EXiMfX3x5n2ZsTi3qNBOo8bl8a3KeaqJeVgc1jfFZ1
+		Wo17rj2ua/e0NBH70eRhThNpMydpvBJdRZACaQJp6XHPlXiUKgYw326TUmIb
+		IoseJ5GVPIWCXniNR6PNJLqkNBykiILXR9dDV5mAfxZdPdETs5NQvrt0ggrc
+		9foHzOvj78NKupeWRutkPkvX/H9OEjPMqZQBdHa/MGv4f4ymR77EnOqmV6g3
+		6fjrgd8WD5piKZLD6JLYDB07hR4eEbXszQmBGAN8i6SXzRW9LTrdCtpg4VAq
+		wZkCAwEAAaM6MDgwDgYDVR0PAQH/BAQDAgeAMCYGA1UdJQEB/wQcMBoGCCsG
+		AQUFBwMEBggrBgEFBQcDAwYEVR0lADANBgkqhkiG9w0BAQsFAAOCAQEArMjo
+		ti6Evj0LFijp3nKt3JqrJN6Kpaeqoa6dXsJVS1Lnp2bgR4K9ng8ir2hnno5I
+		JH5BCLx/doUySsWnlMSwhur0TVz9AkkoVaRWWLtZF96HGi8IoX6phkJxm3Tg
+		zXHukLql+YJLTsZje5E52YEii9fT3IF3k57RIcU+WLYxBlDiGOkmcH2CbHuD
+		j4uJudyMlalp2y21HGM09PlCwO/i3W+6yCqHyi6Cgq47xHR0h1+Wou11rbne
+		+UGg82Gyga0fhKRmOzJnT2XpTnTknsLWp3/Vy4ThMX4/GNcnPDvBUMpuPfG+
+		amMGd/8tmYmkGPbUKUsbyPscDu6+rumqzqaejw==
+		</data>
+	</array>
+	<key>Entitlements</key>
+	<dict>
+		<key>application-identifier</key>
+		<string>C67CF9S4VU.ph.telegra.Telegraph.SiriIntents</string>
+		<key>beta-reports-active</key>
+		<true/>
+		<key>com.apple.developer.carplay-messaging</key>
+		<true/>
+		<key>com.apple.developer.pushkit.unrestricted-voip</key>
+		<true/>
+		<key>com.apple.developer.team-identifier</key>
+		<string>C67CF9S4VU</string>
+		<key>com.apple.developer.usernotifications.filtering</key>
+		<true/>
+		<key>com.apple.security.application-groups</key>
+		<array>
+			<string>group.ph.telegra.Telegraph</string>
+		</array>
+		<key>get-task-allow</key>
+		<false/>
+		<key>keychain-access-groups</key>
+		<array>
+			<string>C67CF9S4VU.*</string>
+			<string>com.apple.token</string>
+		</array>
+	</dict>
+	<key>ExpirationDate</key>
+	<date>2023-10-27T19:16:43Z</date>
+	<key>IsXcodeManaged</key>
+	<false/>
+	<key>Name</key>
+	<string>match AppStore ph.telegra.Telegraph.SiriIntents</string>
+	<key>Platform</key>
+	<array>
+		<string>iOS</string>
+	</array>
+	<key>TeamIdentifier</key>
+	<array>
+		<string>C67CF9S4VU</string>
+	</array>
+	<key>TeamName</key>
+	<string>Telegram FZ-LLC</string>
+	<key>TimeToLive</key>
+	<integer>360</integer>
+	<key>UUID</key>
+	<string>32bebb13-5ec1-4846-9cc7-6ca7d7ac791b</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
